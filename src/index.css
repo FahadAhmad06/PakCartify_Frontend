@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+
+    /* Primary Brand Colors */
+    --primary-main: #0B6B3A;      /* PakMart Green */
+    --primary-dark: #054A28;      /* Dark Green */
+    --primary-light: #1E8E5A;     /* Light Green */
+
+    /* Accent Colors */
+    --accent-gold: #D4A72C;       /* Gold */
+    --accent-light: #F3D77A;
+
+    /* Background Colors */
+    /* --bg-primary: #021A10; */
+    --bg-primary: #FFFFFF;
+    --bg-secondary: #F8F9FA;
+    --bg-dark: #032D1B;
+
+    /* Text Colors */
+    --text-primary: #1F2937;
+    --text-secondary: #6B7280;
+    --text-light: #FFFFFF;
+
+    /* Borders */
+    --border-color: #E5E7EB;
+
+    /* Success */
+    --success: #16A34A;
+
+    /* Shadows */
+    --shadow-sm: 0 2px 8px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
+    --shadow-lg: 0 10px 25px rgba(0,0,0,0.15);
+
+    /* Radius */
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+
+    /* Transitions */
+    --transition: all 0.3s ease;
+}
+
+/* *{
+    margin: 5px;;
+    padding: 5px;
+    box-sizing: border-box;
+} */
